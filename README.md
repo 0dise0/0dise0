@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Me encanta conocer las historias que nos pueden contar los datos y por medio de herramientas como Python, SQL y Dashboard puedo desvelar los secretos de grandes bases de datos y poder mostrárselo a los demás.
 <!--
 **0dise0/0dise0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
