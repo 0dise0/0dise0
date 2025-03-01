@@ -1,5 +1,6 @@
 ## Hola 👋
-Me encanta conocer las historias que nos pueden contar los datos y por medio de herramientas como Python, SQL y Dashboard puedo desvelar los secretos de grandes bases de datos y poder mostrárselo a los demás.
+Me encanta conocer las historias que nos pueden contar los datos y por medio de herramientas como Python, SQL y Dashboard puedo desvelar los secretos de grandes bases de datos y poder mostrárselo a los demás. Actualmente he terminado un bootcamp como analista de datos en TripleTen y estoy entusiasmado de poder aprovechar mis habilidades con nuevos proyectos.
+
 <!--
 **0dise0/0dise0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
